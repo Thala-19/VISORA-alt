@@ -1,0 +1,12 @@
+numpy
+opencv-python
+streamlit
+speechbrain
+audiorecorder
+langchain-google-genai
+google-generativeai
+transformers
+datasets
+torch
+soundfile
+chatterbox
