@@ -5,7 +5,7 @@ import speechbrain as sb
 import subprocess as sp
 from audiorecorder import audiorecorder
 from speechbrain.inference import EncoderDecoderASR
-st.title('VESS-The Sarcastic AI')
+st.title('VISORA')
 
 from ttt import gemini_get_response
 # from tts import load_chatterbox, generate_audio
