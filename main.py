@@ -11,7 +11,7 @@ from ttt import gemini_get_response
 # from tts import load_chatterbox, generate_audio
 from tts_model import load_tts_models, synthesize_speech
 
-api_key = "AIzaSyARJOiO901RqUrDU89whfXT06yuVAM4_gg"
+api_key = ""
 if not api_key:
     raise ValueError("GOOGLE_API_KEY not found. Please set it in your .env file or environment variables.")
 
